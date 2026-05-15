@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.button-click-me {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.button-no-click-me {
+    background-color: #ffff00;
+}
+
+.button-click-me,
+.button-no-click-me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
