@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+/* height defaults to "auto" so no need to explicitly set it but I did not know that */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
